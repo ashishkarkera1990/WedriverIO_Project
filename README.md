@@ -7,9 +7,9 @@ Project Setup and WedriverIO Installation
 •	Select the options as required and install
 •	Check WeddriverIO version 
 •	npm ls weddriverio
-•	Check wido.confi.js file and project folders are created.
+•	Check wdio.conf.js file and project folders are created.
 •	To run existing tests
-•	Run all tests in the folder configured in wido.conf.js.  npx wide run wido.conf.js
+•	Run all tests in the folder configured in wdio.conf.js.  npx wdio run wdio.conf.js
 •	Or 
 •	npm run wido
 
