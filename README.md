@@ -20,5 +20,5 @@ To Generate and view reports
 •	Run test and check allure results folder is generated.
 •	Install allure command line tool npm install -g allure-commandline —save-dev
 •	Run commands
-•	allure generate allure-results
+•	allure generate allure-results --clean
 •	allure open
