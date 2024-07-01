@@ -11,7 +11,7 @@ Project Setup and WedriverIO Installation
 •	To run existing tests
 •	Run all tests in the folder configured in wdio.conf.js.  npx wdio run wdio.conf.js
 •	Or 
-•	npm run wido
+•	npm run wdio
 
 To Generate and view reports
 
