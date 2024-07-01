@@ -3,7 +3,7 @@ Project Setup and WedriverIO Installation
 •	Create a new folder and open in IDE(VS Code)
 •	Open terminal  in VS Code and run commands
 •	npm init -y
-•	npm init wido
+•	npm init wdio
 •	Select the options as required and install
 •	Check WeddriverIO version 
 •	npm ls weddriverio
